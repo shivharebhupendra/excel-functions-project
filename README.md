@@ -34,7 +34,7 @@ This project showcases the application of fundamental **Excel functions** throug
 ---
 
 ### 📂 Files Included:
-- `Assignment - 1 - Excel Practice Project (Functions).ods` – original OpenDocument Spreadsheet
+- `Excel Practice Project (Functions).xlsx` 
 ---
 
 ### 🔗 Additional Resources
@@ -45,6 +45,14 @@ This project showcases the application of fundamental **Excel functions** throug
 - 📦 **Dataset Source**:  
   Sample sales dataset inspired by Superstore data (commonly used in Excel/Power BI/EDA practice)  
   *(SuperStore Dataset: https://coding-platform.s3.amazonaws.com/dev/lms/tickets/cd7f183f-9826-4b1b-b7a0-a109dbfe0327/rVqpcxcZPugeVIdZ.csv)*
+
+---
+
+### ⚠️ Note on Excel Conversion
+
+When downloading from **Google Sheets to Excel format**, certain elements like **borders, frozen panes, and conditional formatting** may not appear correctly or may be lost.
+
+➡️ **For best viewing and accuracy, it is recommended to use the Google Sheets version via the Drive link.**
 
 ---
 
